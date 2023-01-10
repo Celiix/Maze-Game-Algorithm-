@@ -3,7 +3,7 @@ Computataional Thinking and Design - Exam/Assignment -  Maze Game
 
 Resources 
 --------------------------------------------------------
-astar.py - Jan Shah
+astar.py - Jan Shah - Look into Maze-Game-Algorithm-
 
 https://www.pygame.org/project/3437 - Jack Folsom
 
